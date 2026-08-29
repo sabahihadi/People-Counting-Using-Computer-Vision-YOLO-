@@ -1,0 +1,24 @@
+=======================================================
+People Counter Performance Report
+=======================================================
+
+VIDEO INFORMATION
+-------------------------------------------------------
+Input Video FPS              : 25.00
+Processed Frames             : 1720
+Total Processing Time        : 2529.36 sec
+
+PIPELINE PERFORMANCE
+-------------------------------------------------------
+Processing Throughput        : 0.68 FPS
+Average Pipeline Latency     : 1459.12 ms
+Minimum Pipeline Latency     : 1139.85 ms
+Maximum Pipeline Latency     : 14074.23 ms
+Latency Standard Deviation   : 383.74 ms
+
+COUNTING STATISTICS
+-------------------------------------------------------
+ENTER Events                : 10
+EXIT Events                 : 7
+Maximum Occupancy           : 5
+Final Occupancy             : 0

@@ -1,0 +1,58 @@
+[
+    {
+        "timestamp": "00:00:03.360",
+        "frame": 84,
+        "track_id": 3,
+        "event": "ENTER",
+        "current_occupancy": 1
+    },
+    {
+        "timestamp": "00:00:03.560",
+        "frame": 89,
+        "track_id": 1,
+        "event": "ENTER",
+        "current_occupancy": 2
+    },
+    {
+        "timestamp": "00:00:12.120",
+        "frame": 303,
+        "track_id": 5,
+        "event": "ENTER",
+        "current_occupancy": 2
+    },
+    {
+        "timestamp": "00:00:12.320",
+        "frame": 308,
+        "track_id": 1,
+        "event": "EXIT",
+        "current_occupancy": 1
+    },
+    {
+        "timestamp": "00:00:15.360",
+        "frame": 384,
+        "track_id": 6,
+        "event": "ENTER",
+        "current_occupancy": 2
+    },
+    {
+        "timestamp": "00:00:19.360",
+        "frame": 484,
+        "track_id": 9,
+        "event": "ENTER",
+        "current_occupancy": 3
+    },
+    {
+        "timestamp": "00:00:27.480",
+        "frame": 687,
+        "track_id": 16,
+        "event": "ENTER",
+        "current_occupancy": 4
+    },
+    {
+        "timestamp": "00:00:35.600",
+        "frame": 890,
+        "track_id": 18,
+        "event": "ENTER",
+        "current_occupancy": 4
+    }
+]
