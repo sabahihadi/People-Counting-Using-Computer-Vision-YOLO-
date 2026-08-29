@@ -1,0 +1,15 @@
+ultralytics==8.3.0
+
+opencv-python
+
+numpy
+
+pandas
+
+shapely
+
+tqdm
+
+lap
+
+scipy
