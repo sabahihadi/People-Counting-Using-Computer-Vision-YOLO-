@@ -1,0 +1,23 @@
+# Custom ByteTrack configuration
+
+tracker_type: bytetrack
+
+# High confidence detections
+track_high_thresh: 0.50
+
+# Low confidence detections
+track_low_thresh: 0.10
+
+# Confidence required to create a new track
+new_track_thresh: 0.50
+
+# Number of frames to keep a lost track
+# یعنی اگر فرد پشت شخص دیگری مخفی شود: احتمال حفظ track بیشتر می شود.
+track_buffer: 90
+
+# Association threshold
+# این باعث می‌شود ByteTrack سخت‌گیرتر عمل کند و کمتر Track جدید بسازد.
+match_thresh: 0.85
+
+# Fuse detection confidence
+fuse_score: True
